@@ -9,7 +9,7 @@ class InsufficientAmountException extends Exception{
 		super(s);
 	}
 }
-public class Main {
+public class W54 {
 
 	public static void main(String[] args) {
 		Scanner t = new Scanner(System.in);
