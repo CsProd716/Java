@@ -18,7 +18,7 @@ class NotEligibleException extends Exception{
 	}
 }
 
-public class Main {
+public class W55 {
 
 	public static void main(String[] args) {
 		Scanner t  = new Scanner(System.in);
